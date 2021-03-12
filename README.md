@@ -1,2 +1,2 @@
 # sample-repo
-更新
+Windowsで更新
